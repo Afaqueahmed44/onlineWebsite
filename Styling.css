@@ -1,0 +1,193 @@
+body{
+    background: F4F4F4 ;
+    //*margin: 1;*///
+}
+
+.b{
+    color:darkblue;
+        font-size: 30px;
+}
+.header{
+    padding: 0;
+   //* border: 2px solid black; *//
+    
+}
+.Menu{
+    text-align:start;
+    padding: ;
+}
+.afi{
+    border: 110px;
+    color: brown;
+    font-size: 30px;
+    border-color: blue;
+}
+
+
+.Menu a{
+    color: blue;
+    text-decoration: inherit;
+    font-size: 20px;
+    font-family: cursive;
+}
+.Menu a:hover{
+    color: beige;
+}
+h2{
+    color: brown;
+    margin: 11px 12px 33px 229px;
+}
+aside{
+    
+    float: center;
+    border: 2px solid cornflowerblue ;
+    border-width: 25px;
+    
+}
+
+div.ali{
+    font-size: 30px;
+    margin: 0 90px 40px 150px;
+    padding: 50px 40px 50px 0;
+    color:cornflowerblue;
+    font-family: "Geogia"; 
+   text-align: center;
+    text-align: justify;
+    text-emphasis: justify;
+   width: 120 33px 22px 25px;*// 
+}
+
+
+.afaq{
+    
+    color: coral;
+}
+.topnav{
+    
+    background-color: #000;
+    overflow: hidden;
+    
+}
+
+.topnav a {
+  padding: 30px 20px 10px 20px;
+    float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+    font-size: 17px;}
+
+
+.ba{
+//*background-color: blue; *////
+opacity: 1;
+float: left;
+
+}
+div{
+    float: center;
+}
+.ab{
+    float: center;
+    color: purple;
+}
+.b {
+    color: purple;
+     font-size: 20px;
+     float: right;
+}
+   h1{
+       padding: 0px 8px 5px 100px;
+   } 
+.ax{
+    height: 20px;
+    background-color: aqua;
+}
+
+.cse{
+    padding: ;
+    height: 200px;
+    width: 400px;
+    background-color: aquamarine;
+    position: relative;
+}
+.it{
+height: 200px;
+    width: 400px;
+padding: 0 0 0 0px;
+    background-color: aquamarine;
+    position: relative;
+margin: -30px 0 0 450px;    
+    
+}
+.cds{
+height: 200px;
+    width: 400px;
+padding: 0 0 0 20px;
+    background-color: aquamarine;
+    position: relative;
+margin: 15px 0 0 450px;    
+    
+display: inline-block;
+
+}
+
+.epo{
+    
+    
+height: 200px;
+    width: 400px;
+    background-color: aquamarine;
+    margin:  15px 0 0px;
+    
+    
+}
+.ew{
+    font-size: 20px;
+    padding: 90px 90px 0px 70px;
+    margin: 60px 0px 0px 50px
+    position: relative;
+}
+.es{
+
+    
+    font-size: 20px;
+    padding: 90px 90px 0px 70px;
+    margin: 60px 0px 0px 50px
+    position: relative;
+
+}
+.lp{
+
+    font-size: 20px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 50px
+    position: relative;
+
+    
+}
+.ego{
+    
+    font-size: 20px;
+    padding: 0px 90px 0px 70px;
+    margin: 40px 0px 0px 50px
+    position: relative;
+
+}
+a:hover{
+    color: black;
+}
+a{
+
+    text-decoration: none;
+}
+.raja{
+    
+    font-size: 30px;
+    color: blue;
+    text-decoration: inherit;
+     text-align: justify;
+    margin: 20px 90px 0px 90px;
+    padding: 20px 30px 50px 70px;
+}
